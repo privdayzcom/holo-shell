@@ -12,7 +12,7 @@
 
 ## 📸 Interface
 
-![Holo Shell]([https://media.discordapp.net/attachments/107876000000000000/107876000000000000/image.png](https://privdayz.com/wp-content/uploads/de2bff8dc0c625adeca13221299a7653-1-1024x702.jpg))
+![Holo Shell]([https://privdayz.com/wp-content/uploads/de2bff8dc0c625adeca13221299a7653-1-1024x702.jpg](https://privdayz.com/wp-content/uploads/de2bff8dc0c625adeca13221299a7653-1-1024x702.jpg))
 ---
 
 ## ⚠️ Disclaimer
